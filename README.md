@@ -1,0 +1,2 @@
+# appmanifiesto
+GUI inicial manifiesto
